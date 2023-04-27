@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-write-stream": "^2.0.0",
+    "csv-writer": "^1.6.0",
+    "less-scss-convertor": "^0.0.17",
+    "less2sass": "^1.0.3",
+    "less2scss": "^1.9.2"
+  }
+}
